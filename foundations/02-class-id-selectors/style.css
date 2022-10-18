@@ -1,0 +1,27 @@
+.Number-1 {
+    font-style:'sans-serif';
+     
+}
+#Number-2 {
+    color: blue;
+    font-size: 36px;
+}
+.Number-3 {
+    font-style: 'Dejavu Sans';
+    font-size: 24px;
+    
+}
+#Number-4 {
+    background-color: #90ee90;
+    font-weight: bold;
+    font-size: 24px;
+}
+.Number-5 {
+    font-style: 'Verdana';
+
+}
+.Number-1,
+.Number-3,
+.Number-5 {
+    background-color:#FF8886;
+}
